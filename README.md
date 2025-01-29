@@ -27,7 +27,15 @@ Happy? => Publish site
 hugo
 ```
 
-## How to ...
+Then push.
+
+## How to deploy
+
+[Hugo docs](https://gohugo.io/hosting-and-deployment/hosting-on-github/) on how to set this up.
+
+```sh
+
+```
 
 ## How to update
 
