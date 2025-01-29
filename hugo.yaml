@@ -1,0 +1,12 @@
+baseURL: https://o-organism.github.io
+languageCode: en-us
+title: O Organism
+theme: ["PaperMod"]
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+
+
