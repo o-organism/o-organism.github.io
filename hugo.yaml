@@ -31,8 +31,8 @@ markup:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: O for Organism
-  description: "Part of another O."
+  title: "$O$ for Organism"
+  description: "Part of another $O$."
   keywords: [Blog, PaperMod]
   author: Oi
 
