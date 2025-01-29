@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://o-organism.github.io/sitemap.xml

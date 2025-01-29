@@ -8,5 +8,44 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
+minify:
+  disableXML: true
+  minifyOutput: true
 
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: O for Organism
+  description: "Part of another O."
+  keywords: [Blog, PaperMod]
+  author: Oi
 
+  #DateFormat: "January 1, 1001"
+  defaultTheme: light # dark, light
+  disableThemeToggle: true
+
+  UseHugoToc: true
+  disableSpecial1stPost: true
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "/images/favicon/favicon.ico"
+    favicon16x16: "/images/favicon/favicon-16x16.png"
+    favicon32x32: "/images/favicon/favicon-32x32.png"
+    apple_touch_icon: "/images/favicon/apple-touch-icon.png"
+    safari_pinned_tab: "/images/favicon/android-chrome-192x192.png"
+  
+  label:
+    text: "OOverview"
+    icon: "/images/favicon/apple-touch-icon.png"
+    iconHeight: 35
+  
+  homeInfoParams:
+    Title: "Content"
+    Content: "Read or read not. Can you read?"
