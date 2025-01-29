@@ -12,6 +12,23 @@ minify:
   disableXML: true
   minifyOutput: true
 
+
+
+markup:
+  goldmark:
+    extensions:
+      passthrough:
+        delimiters:
+          block:
+          - - \[
+            - \]
+          - - $$
+            - $$
+          inline:
+          - - $
+            - $
+        enable: true
+
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: O for Organism
@@ -49,3 +66,5 @@ params:
   homeInfoParams:
     Title: "Content"
     Content: "Read or read not. Can you read?"
+  
+  math: true

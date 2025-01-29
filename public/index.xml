@@ -2,18 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>O Organism</title>
-    <link>https://o-organism.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on O Organism</description>
     <generator>Hugo -- 0.142.0</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 29 Jan 2025 17:18:07 +0100</lastBuildDate>
-    <atom:link href="https://o-organism.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Experience distribution.</title>
-      <link>https://o-organism.github.io/posts/2024-01-29/</link>
+      <title>The O expression.</title>
+      <link>http://localhost:1313/posts/2024-01-29/</link>
       <pubDate>Wed, 29 Jan 2025 17:18:07 +0100</pubDate>
-      <guid>https://o-organism.github.io/posts/2024-01-29/</guid>
-      <description>&lt;p&gt;Content to be shared.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/2024-01-29/</guid>
+      <description>&lt;p&gt;When an O expresses its internals to other Os, these Os can maybe use this information (&lt;a href=&#34;https://en.wikipedia.org/wiki/Theory_of_mind&#34;&gt;theory of mind&lt;/a&gt;?).&lt;/p&gt;
+&lt;p&gt;Assuming O1 is part of a set of Os having access to the same information, how does the value of that information degrade with respect to the total number of Os having internalized the same information and the type of information (&lt;a href=&#34;https://en.wikipedia.org/wiki/Information_theory&#34;&gt;information theory&lt;/a&gt;?)?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Type of information&lt;/strong&gt;: an O says.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
