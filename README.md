@@ -20,21 +20,21 @@ Then build the drafts start local server.
 hugo server --buildDrafts
 ```
 
-Happy? => Publish site
+Happy? => change the draft property in the '.md' files to `false` and publish the site.
 
 ```sh
 # create static site in public dir
 hugo
 ```
 
-Then push.
+Then push to GitHub.
 
 ## How to deploy
 
 [Hugo docs](https://gohugo.io/hosting-and-deployment/hosting-on-github/) on how to set this up.
 
 ```sh
-
+# just push to GitHub after completing the deployment setup according to Hugo's docs ^^
 ```
 
 ## How to update
